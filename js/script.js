@@ -44,4 +44,5 @@ $(document).ready(function () {
 	button.addEventListener('click', function () {
 		swal("Спасибо за заявку!", "Я отвечу Вам в ближайшее время.", "success");
 	});
+
 });
