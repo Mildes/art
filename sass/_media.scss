@@ -1,7 +1,4 @@
 @media(max-width: 1140px) {
-    * {
-        font-family: 'Philosopher', sans-serif;
-    }
     .container {
         max-width: 960px;
     }
@@ -130,9 +127,6 @@
     }
 }
 @media(max-width: 960px) {
-    * {
-        font-family: 'Philosopher', sans-serif;
-    }
     .container {
         max-width: 720px;
     }
@@ -312,9 +306,6 @@
     }
 }
 @media(max-width: 720px) {
-    * {
-        font-family: 'Philosopher', sans-serif;
-    }
     .header {
         min-height: 381px;
         z-index: 10;
@@ -521,9 +512,6 @@
 }
 
 @media (max-width: 540px) {
-    * {
-        font-family: 'Philosopher', sans-serif;
-    }
     .title{
         font-size: 30px;
         text-align: center;
