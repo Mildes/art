@@ -1,0 +1,26 @@
+@font-face {
+    font-family: "AnastasiaScriptC";
+    src: url("../fonts/AnastasiaScriptC.eot");
+    src: url("../fonts/AnastasiaScriptC.woff");
+    src: url("../fonts/AnastasiaScriptC.otf");
+    src: url("../fonts/AnastasiaScriptC.ttf");
+    font-style: normal;
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: "Philosopher-Regular";
+    src: url("../fonts/Philosopher-Regular.eot");
+    src: url("../fonts/APhilosopher-Regular.woff");
+    src: url("../fonts/Philosopher-Regular.ttf");
+    font-style: normal;
+    font-weight: normal;
+}
+@font-face {
+    font-family: "Philosopher-Bold";
+    src: url("../fonts/Philosopher-Bold.eot");
+    src: url("../fonts/APhilosopher-Bold.woff");
+    src: url("../fonts/Philosopher-Bold.ttf");
+    font-style: normal;
+    font-weight: 700;
+}
