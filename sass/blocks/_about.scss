@@ -1,0 +1,40 @@
+.about {
+    position: relative;
+    min-height: 592px;
+    padding-bottom: 15px;
+    &__bg {
+        position: absolute;
+        width: calc(100% - 30%);
+        height: 400px;
+        background-color: #ff99c4;
+        right: 0;
+        margin-top: 92px;
+    }
+    &__bg2 {
+        position: absolute;
+        width: calc(100% - 50%);
+        height: 400px;
+        opacity: 0.5;
+        background-color: #ffc4dd;
+        right: 0;
+        z-index: -1;
+        margin-top: 127px;
+    }
+    &__img {
+        position: absolute;
+        z-index: 1;
+    }
+    &__title {
+        padding-left: 550px;
+        padding-top: 140px;
+    }
+    &__text {
+        position: absolute;
+        padding-left: 550px;
+        color: #ffffff;
+        font-size: 18px;
+        font-weight: normal;
+        line-height: 1.39;
+        margin-top: 30px;
+    }
+}
